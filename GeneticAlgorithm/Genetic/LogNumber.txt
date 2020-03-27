@@ -1,0 +1,365 @@
+For Generation 1 :
+Best Score : 3
+Average Score : 0.9 
+Worst Score : 0 
+
+For Generation 2 :
+Best Score : 4
+Average Score : 1.4 
+Worst Score : 0 
+
+For Generation 3 :
+Best Score : 4
+Average Score : 2.2 
+Worst Score : 0 
+
+For Generation 4 :
+Best Score : 4
+Average Score : 2.9 
+Worst Score : 2 
+
+For Generation 5 :
+Best Score : 4
+Average Score : 3.3 
+Worst Score : 1 
+
+For Generation 6 :
+Best Score : 4
+Average Score : 3.3 
+Worst Score : 1 
+
+For Generation 7 :
+Best Score : 4
+Average Score : 3.25 
+Worst Score : 1 
+
+For Generation 8 :
+Best Score : 4
+Average Score : 3.05 
+Worst Score : 0 
+
+For Generation 9 :
+Best Score : 4
+Average Score : 3.85 
+Worst Score : 3 
+
+For Generation 10 :
+Best Score : 4
+Average Score : 3.8 
+Worst Score : 3 
+
+For Generation 11 :
+Best Score : 4
+Average Score : 3.4 
+Worst Score : 0 
+
+For Generation 12 :
+Best Score : 4
+Average Score : 3.65 
+Worst Score : 2 
+
+For Generation 13 :
+Best Score : 4
+Average Score : 3.4 
+Worst Score : 1 
+
+For Generation 14 :
+Best Score : 4
+Average Score : 3.75 
+Worst Score : 2 
+
+For Generation 15 :
+Best Score : 4
+Average Score : 3.9 
+Worst Score : 2 
+
+For Generation 16 :
+Best Score : 4
+Average Score : 3.55 
+Worst Score : 2 
+
+For Generation 17 :
+Best Score : 4
+Average Score : 3.45 
+Worst Score : 2 
+
+For Generation 18 :
+Best Score : 5
+Average Score : 3.6 
+Worst Score : 2 
+
+For Generation 19 :
+Best Score : 5
+Average Score : 3.6 
+Worst Score : 1 
+
+For Generation 20 :
+Best Score : 5
+Average Score : 3.65 
+Worst Score : 2 
+
+For Generation 21 :
+Best Score : 6
+Average Score : 4.05 
+Worst Score : 2 
+
+For Generation 22 :
+Best Score : 6
+Average Score : 4.45 
+Worst Score : 3 
+
+For Generation 23 :
+Best Score : 7
+Average Score : 4.7 
+Worst Score : 2 
+
+For Generation 24 :
+Best Score : 7
+Average Score : 5.4 
+Worst Score : 3 
+
+For Generation 25 :
+Best Score : 7
+Average Score : 5.2 
+Worst Score : 3 
+
+For Generation 26 :
+Best Score : 7
+Average Score : 5.4 
+Worst Score : 1 
+
+For Generation 27 :
+Best Score : 7
+Average Score : 5.8 
+Worst Score : 3 
+
+For Generation 28 :
+Best Score : 7
+Average Score : 6.65 
+Worst Score : 2 
+
+For Generation 29 :
+Best Score : 7
+Average Score : 6.1 
+Worst Score : 3 
+
+For Generation 30 :
+Best Score : 7
+Average Score : 6.35 
+Worst Score : 4 
+
+For Generation 31 :
+Best Score : 7
+Average Score : 6.55 
+Worst Score : 4 
+
+For Generation 32 :
+Best Score : 7
+Average Score : 5.45 
+Worst Score : 2 
+
+For Generation 33 :
+Best Score : 7
+Average Score : 6.25 
+Worst Score : 3 
+
+For Generation 34 :
+Best Score : 7
+Average Score : 5.6 
+Worst Score : 1 
+
+For Generation 35 :
+Best Score : 7
+Average Score : 6.1 
+Worst Score : 3 
+
+For Generation 36 :
+Best Score : 8
+Average Score : 6.1 
+Worst Score : 3 
+
+For Generation 37 :
+Best Score : 8
+Average Score : 7.1 
+Worst Score : 5 
+
+For Generation 38 :
+Best Score : 8
+Average Score : 7.2 
+Worst Score : 4 
+
+For Generation 39 :
+Best Score : 8
+Average Score : 6.75 
+Worst Score : 4 
+
+For Generation 40 :
+Best Score : 8
+Average Score : 7.15 
+Worst Score : 5 
+
+For Generation 41 :
+Best Score : 9
+Average Score : 6.7 
+Worst Score : 3 
+
+For Generation 42 :
+Best Score : 9
+Average Score : 7.55 
+Worst Score : 3 
+
+For Generation 43 :
+Best Score : 9
+Average Score : 7.25 
+Worst Score : 3 
+
+For Generation 44 :
+Best Score : 9
+Average Score : 7.65 
+Worst Score : 3 
+
+For Generation 45 :
+Best Score : 9
+Average Score : 7.75 
+Worst Score : 5 
+
+For Generation 46 :
+Best Score : 9
+Average Score : 8.4 
+Worst Score : 6 
+
+For Generation 47 :
+Best Score : 9
+Average Score : 8.35 
+Worst Score : 5 
+
+For Generation 48 :
+Best Score : 9
+Average Score : 8.75 
+Worst Score : 5 
+
+For Generation 49 :
+Best Score : 9
+Average Score : 8.0 
+Worst Score : 4 
+
+For Generation 50 :
+Best Score : 9
+Average Score : 7.85 
+Worst Score : 5 
+
+For Generation 51 :
+Best Score : 9
+Average Score : 7.4 
+Worst Score : 4 
+
+For Generation 52 :
+Best Score : 9
+Average Score : 8.25 
+Worst Score : 4 
+
+For Generation 53 :
+Best Score : 9
+Average Score : 7.65 
+Worst Score : 3 
+
+For Generation 54 :
+Best Score : 9
+Average Score : 7.85 
+Worst Score : 4 
+
+For Generation 55 :
+Best Score : 9
+Average Score : 7.9 
+Worst Score : 4 
+
+For Generation 56 :
+Best Score : 9
+Average Score : 8.6 
+Worst Score : 5 
+
+For Generation 57 :
+Best Score : 9
+Average Score : 8.0 
+Worst Score : 5 
+
+For Generation 58 :
+Best Score : 9
+Average Score : 7.8 
+Worst Score : 2 
+
+For Generation 59 :
+Best Score : 9
+Average Score : 8.05 
+Worst Score : 4 
+
+For Generation 60 :
+Best Score : 9
+Average Score : 8.4 
+Worst Score : 6 
+
+For Generation 61 :
+Best Score : 9
+Average Score : 7.35 
+Worst Score : 3 
+
+For Generation 62 :
+Best Score : 9
+Average Score : 7.75 
+Worst Score : 3 
+
+For Generation 63 :
+Best Score : 9
+Average Score : 7.3 
+Worst Score : 4 
+
+For Generation 64 :
+Best Score : 9
+Average Score : 8.1 
+Worst Score : 4 
+
+For Generation 65 :
+Best Score : 9
+Average Score : 7.8 
+Worst Score : 2 
+
+For Generation 66 :
+Best Score : 9
+Average Score : 7.65 
+Worst Score : 3 
+
+For Generation 67 :
+Best Score : 9
+Average Score : 7.6 
+Worst Score : 3 
+
+For Generation 68 :
+Best Score : 9
+Average Score : 7.6 
+Worst Score : 3 
+
+For Generation 69 :
+Best Score : 9
+Average Score : 7.65 
+Worst Score : 5 
+
+For Generation 70 :
+Best Score : 9
+Average Score : 7.55 
+Worst Score : 3 
+
+For Generation 71 :
+Best Score : 9
+Average Score : 7.75 
+Worst Score : 3 
+
+For Generation 72 :
+Best Score : 9
+Average Score : 8.5 
+Worst Score : 4 
+
+For Generation 73 :
+Best Score : 10
+Average Score : 8.0 
+Worst Score : 4 
+
