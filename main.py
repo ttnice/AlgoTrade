@@ -4,7 +4,6 @@ from PriceObject import Price
 from random import randint
 from time import time
 from datetime import datetime
-
 import matplotlib.pyplot as plt
 
 if __name__ == '__main__':
@@ -12,7 +11,8 @@ if __name__ == '__main__':
     my_ia = Ia()
     # my_ia.create_model()
     my_ia.load('9')
-    my_ia.compiler(loss='mean_squared_error', lr=0.00001, decay=0.000_001, momentum=0.9, nesterov=True)
+    lr = 0.01
+    my_ia.compiler(loss='mean_squared_error', lr=lr, decay=0.000_001, momentum=0.9, nesterov=True)
     my_price = Price(180)
 
     start_test = 6_421_500
@@ -22,7 +22,7 @@ if __name__ == '__main__':
     while True:
         datas = []
         labels = []
-        for i in range(1_000_000):
+        for i in range(10_000):
             start = randint(1, my_price.born)
 
             datas.append(my_price.get_several_data(start, 120))
@@ -31,6 +31,8 @@ if __name__ == '__main__':
         my_ia.fit(datas, labels, 100)
 
         fois += 1
+        lr = lr/2
+        my_ia.compiler(loss='mean_squared_error', lr=lr, decay=0.000_001, momentum=0.9, nesterov=True)
         print(f'{fois} - {datetime.now()}')
 
         my_ia.save_folder(f'{fois}')
