@@ -1,3 +1,0 @@
-[
-{'individu':"1individu",
-]
