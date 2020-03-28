@@ -1,0 +1,27 @@
+AlgoTrade
+
+BACKTEST
+PyAlgo Trade
+PyBacktest
+PLATFORM
+Quantopian
+Quantiacs
+Quandl (data)
+
+MODEL
+LSTM
+https://www.thepythoncode.com/article/stock-price-prediction-in-python-using-tensorflow-2-and-keras
+multiples to multiples
+RNN
+Mettre output into input
+
+BROKERS
+IBridgePy
+IBPy
+
+GAKeras
+PetraVidnerova/GAKeras (lot of commit&contrib, but long)
+rish-16/Network-Optimisation (only 3 commit but easy understanding)
+
+
+
