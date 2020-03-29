@@ -9,7 +9,7 @@ from keras.utils import np_utils
 
 
 # load the network weights
-filename = "weights-improvement-19-1.9435.hdf5"
+filename = "weights-improvement-09-1.9861.hdf5"
 X_shape1 = 100
 X_shape2 = 1
 y_shape1 = 58
