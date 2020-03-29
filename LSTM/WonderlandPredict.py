@@ -1,5 +1,5 @@
 import numpy, sys
-from keras.models import Sequential
+from keras.models import Sequential, load_model
 from keras.layers import Dense
 from keras.layers import Dropout
 from keras.layers import LSTM
@@ -9,17 +9,8 @@ from keras.utils import np_utils
 
 
 # load the network weights
-filename = "weights-improvement-09-1.9861.hdf5"
-X_shape1 = 100
-X_shape2 = 1
-y_shape1 = 58
-# define the LSTM model
-model = Sequential()
-model.add(LSTM(256, input_shape=(X_shape1, X_shape2)))
-model.add(Dropout(0.2))
-model.add(Dense(y_shape1, activation='softmax'))
-model.load_weights(filename)
-model.compile(loss='categorical_crossentropy', optimizer='adam')
+filename = "Wonderland/weights-improvement-09-1.9861.hdf5"
+model = load_model(filename)
 
 # load ascii text and covert to lowercase
 filename = "wonderland.txt"
