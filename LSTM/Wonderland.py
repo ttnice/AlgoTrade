@@ -40,7 +40,7 @@ X = X / float(n_vocab)
 y = np_utils.to_categorical(dataY)
 
 # define the LSTM model
-filename = "Wonderland/weights-improvement-09-1.9861.hdf5"
+filename = "/Users/tientranthuong/Documents/Nice/programmation/AlgoTrade/LSTM/Wonderland/weights-improvement-11-1.8870.hdf5"
 model = load_model(filename)
 
 '''
@@ -54,7 +54,7 @@ model.add(Dense(y.shape[1], activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 
 # define the checkpoint
-filepath="Wonderland2/weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
+filepath="/Users/tientranthuong/Documents/Nice/programmation/AlgoTrade/LSTM/Wonderland2/weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
 checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
 callbacks_list = [checkpoint]
 
